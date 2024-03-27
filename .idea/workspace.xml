@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="861725f8-a284-4552-a7bb-7d3aef2d9975" name="Changes" comment="Initial Commit (Window and GamePanel)">
-      <change afterPath="$PROJECT_DIR$/src/main/KeyHandler.java" afterDir="false" />
+    <list default="true" id="861725f8-a284-4552-a7bb-7d3aef2d9975" name="Changes" comment="GameLoop Added (Accumulator Method)">
+      <change afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711567008069</updated>
-      <workItem from="1711567009489" duration="3575000" />
+      <workItem from="1711567009489" duration="5419000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit (Window and GamePanel)">
       <option name="closed" value="true" />
@@ -77,7 +77,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711569217667</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="GameLoop Added (Accumulator Method)">
+      <option name="closed" value="true" />
+      <created>1711571000588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711571000588</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit (Window and GamePanel)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit (Window and GamePanel)" />
+    <MESSAGE value="GameLoop Added (Accumulator Method)" />
+    <option name="LAST_COMMIT_MESSAGE" value="GameLoop Added (Accumulator Method)" />
   </component>
 </project>
