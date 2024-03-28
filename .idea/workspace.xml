@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="861725f8-a284-4552-a7bb-7d3aef2d9975" name="Changes" comment="Initial Commit (Window and GamePanel)">
-      <change afterPath="$PROJECT_DIR$/res/player/pig_down1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/pig_down2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/pig_left1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/pig_left2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/pig_right1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/pig_right2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/pig_up1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/player/pig_up2.png" afterDir="false" />
+    <list default="true" id="861725f8-a284-4552-a7bb-7d3aef2d9975" name="Changes" comment="Player/Entity Classes Begun">
+      <change afterPath="$PROJECT_DIR$/res/maps/map01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/wall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/tiles/water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tile/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tile/TileManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,29 +34,31 @@
 }</component>
   <component name="ProjectId" id="2eHgdai7aHfg8Sjt9JnVgHJ8WNg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "/Users/jackkanewske/IdeaProjects/GameProject/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/jackkanewske/IdeaProjects/GameProject/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/tiles" />
       <recent name="C:\Users\14692\IdeaProjects\GameProject\res\player" />
     </key>
   </component>
@@ -109,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit (Window and GamePanel)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit (Window and GamePanel)" />
+    <MESSAGE value="Player/Entity Classes Begun" />
+    <option name="LAST_COMMIT_MESSAGE" value="Player/Entity Classes Begun" />
   </component>
 </project>
