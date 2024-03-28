@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="861725f8-a284-4552-a7bb-7d3aef2d9975" name="Changes" comment="Player/Entity Classes Begun">
-      <change afterPath="$PROJECT_DIR$/res/maps/map01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/grass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/wall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/water.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tile/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tile/TileManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-    </list>
+    <list default="true" id="861725f8-a284-4552-a7bb-7d3aef2d9975" name="Changes" comment="Player/Entity Classes Begun" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711569217667</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Peppa Walks">
+      <option name="closed" value="true" />
+      <created>1711583283774</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711583283774</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
