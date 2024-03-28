@@ -58,7 +58,7 @@ public class TileManager {
 
                 String line = br.readLine();
 
-                while (col < gp.maxScreenRow) {
+                while (col < gp.maxScreenCol) {
 
                     String numbers[] = line.split(" ");
 
