@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="861725f8-a284-4552-a7bb-7d3aef2d9975" name="Changes" comment="WorldX/Y ScreenX/Y &quot;Camera&quot; method added. Map reader expanded to WorldX/Y bounds.">
-      <change afterPath="$PROJECT_DIR$/src/main/CollisionChecker.java" afterDir="false" />
+    <list default="true" id="861725f8-a284-4552-a7bb-7d3aef2d9975" name="Changes" comment="Collsion Detection Added (Invisible Rect Object at the (entity) worldX/Y. Uses X/Y + Speed = tileX/Y checker method.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tile/TileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tile/TileManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711567008069</updated>
       <workItem from="1711567009489" duration="3575000" />
-      <workItem from="1712009237653" duration="983000" />
+      <workItem from="1712009237653" duration="1995000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit (Window and GamePanel)">
       <option name="closed" value="true" />
@@ -126,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711682967954</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Collsion Detection Added (Invisible Rect Object at the (entity) worldX/Y. Uses X/Y + Speed = tileX/Y checker method.">
+      <option name="closed" value="true" />
+      <created>1712010610704</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712010610704</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +151,8 @@
     <MESSAGE value="Player/Entity Classes Begun" />
     <MESSAGE value="Added new tiles" />
     <MESSAGE value="WorldX/Y ScreenX/Y &quot;Camera&quot; method added. Map reader expanded to WorldX/Y bounds." />
-    <option name="LAST_COMMIT_MESSAGE" value="WorldX/Y ScreenX/Y &quot;Camera&quot; method added. Map reader expanded to WorldX/Y bounds." />
+    <MESSAGE value="Collsion Detection Added (Invisible Rect Object at the (entity) worldX/Y. Uses X/Y + Speed checker method." />
+    <MESSAGE value="Collsion Detection Added (Invisible Rect Object at the (entity) worldX/Y. Uses X/Y + Speed = tileX/Y checker method." />
+    <option name="LAST_COMMIT_MESSAGE" value="Collsion Detection Added (Invisible Rect Object at the (entity) worldX/Y. Uses X/Y + Speed = tileX/Y checker method." />
   </component>
 </project>
