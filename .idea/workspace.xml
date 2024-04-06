@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="861725f8-a284-4552-a7bb-7d3aef2d9975" name="Changes" comment="Collsion Detection Added (Invisible Rect Object at the (entity) worldX/Y. Uses X/Y + Speed = tileX/Y checker method.">
-      <change afterPath="$PROJECT_DIR$/src/main/AssetSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object/OBJ_Chest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object/OBJ_Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object/OBJ_Key.java" afterDir="false" />
+    <list default="true" id="861725f8-a284-4552-a7bb-7d3aef2d9975" name="Changes" comment="New Sprites (Objects) added. SuperObject class added.">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_27_2024_4_31_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_27_2024_4_31_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/maps/world01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/maps/world01.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/CollisionChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/CollisionChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/object/OBJ_Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object/OBJ_Door.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/object/SuperObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object/SuperObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +63,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\14692\IdeaProjects\GameProject\res\objects" />
       <recent name="C:\Users\14692\IdeaProjects\GameProject\res\tiles" />
       <recent name="C:\Users\14692\IdeaProjects\GameProject\res\maps" />
       <recent name="$PROJECT_DIR$/res/tiles" />
@@ -95,7 +95,9 @@
       <option name="presentableId" value="Default" />
       <updated>1711567008069</updated>
       <workItem from="1711567009489" duration="3575000" />
-      <workItem from="1712009237653" duration="1995000" />
+      <workItem from="1712009237653" duration="3093000" />
+      <workItem from="1712372019552" duration="28000" />
+      <workItem from="1712373651169" duration="1495000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit (Window and GamePanel)">
       <option name="closed" value="true" />
@@ -137,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712010610704</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="New Sprites (Objects) added. SuperObject class added.">
+      <option name="closed" value="true" />
+      <created>1712011706669</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712011706669</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +171,7 @@
     <MESSAGE value="WorldX/Y ScreenX/Y &quot;Camera&quot; method added. Map reader expanded to WorldX/Y bounds." />
     <MESSAGE value="Collsion Detection Added (Invisible Rect Object at the (entity) worldX/Y. Uses X/Y + Speed checker method." />
     <MESSAGE value="Collsion Detection Added (Invisible Rect Object at the (entity) worldX/Y. Uses X/Y + Speed = tileX/Y checker method." />
-    <option name="LAST_COMMIT_MESSAGE" value="Collsion Detection Added (Invisible Rect Object at the (entity) worldX/Y. Uses X/Y + Speed = tileX/Y checker method." />
+    <MESSAGE value="New Sprites (Objects) added. SuperObject class added." />
+    <option name="LAST_COMMIT_MESSAGE" value="New Sprites (Objects) added. SuperObject class added." />
   </component>
 </project>
