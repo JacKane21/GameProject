@@ -128,6 +128,9 @@ public class Player extends Entity{
                         hasKey--;
                     }
                     break;
+                case "boot":
+                    gp.obj[i]= null;
+                    gp.player.speed = 5;
             }
         }
     }

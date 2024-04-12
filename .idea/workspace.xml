@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="861725f8-a284-4552-a7bb-7d3aef2d9975" name="Changes" comment="New Sprites (Objects) added. SuperObject class added.">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_27_2024_4_31_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_3_27_2024_4_31_PM__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/object/OBJ_Boot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/CollisionChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/CollisionChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object/OBJ_Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object/OBJ_Door.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/object/SuperObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object/SuperObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AssetSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AssetSetter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +94,57 @@
       <workItem from="1712009237653" duration="3093000" />
       <workItem from="1712372019552" duration="28000" />
       <workItem from="1712373651169" duration="1495000" />
+      <workItem from="1712587202932" duration="801000" />
+      <workItem from="1712592618494" duration="63000" />
+      <workItem from="1712592876557" duration="8000" />
+      <workItem from="1712592904861" duration="10000" />
+      <workItem from="1712592941138" duration="2000" />
+      <workItem from="1712592965055" duration="15000" />
+      <workItem from="1712593028255" duration="10000" />
+      <workItem from="1712593074813" duration="2000" />
+      <workItem from="1712593133711" duration="11000" />
+      <workItem from="1712593262460" duration="22000" />
+      <workItem from="1712593351762" duration="9000" />
+      <workItem from="1712593453553" duration="1000" />
+      <workItem from="1712593527402" duration="170000" />
+      <workItem from="1712593744177" duration="4000" />
+      <workItem from="1712593776562" duration="44000" />
+      <workItem from="1712593848231" duration="13000" />
+      <workItem from="1712593916687" duration="8000" />
+      <workItem from="1712593947570" duration="5000" />
+      <workItem from="1712594036789" duration="21000" />
+      <workItem from="1712594123389" duration="3000" />
+      <workItem from="1712594189102" duration="14000" />
+      <workItem from="1712594901457" duration="10000" />
+      <workItem from="1712595186444" duration="1000" />
+      <workItem from="1712595611641" duration="6000" />
+      <workItem from="1712595638899" duration="5000" />
+      <workItem from="1712595684298" duration="2000" />
+      <workItem from="1712595703515" duration="3000" />
+      <workItem from="1712595752987" duration="49000" />
+      <workItem from="1712595899519" duration="18000" />
+      <workItem from="1712595962061" duration="48000" />
+      <workItem from="1712596061181" duration="25000" />
+      <workItem from="1712596172793" duration="8000" />
+      <workItem from="1712596204717" duration="36000" />
+      <workItem from="1712596373936" duration="12000" />
+      <workItem from="1712596403418" duration="9000" />
+      <workItem from="1712597032721" duration="27000" />
+      <workItem from="1712597153759" duration="18000" />
+      <workItem from="1712597377000" duration="12000" />
+      <workItem from="1712597415094" duration="20000" />
+      <workItem from="1712597503974" duration="10000" />
+      <workItem from="1712597719401" duration="30000" />
+      <workItem from="1712607257652" duration="47000" />
+      <workItem from="1712681379719" duration="10000" />
+      <workItem from="1712681413720" duration="5000" />
+      <workItem from="1712681442107" duration="32000" />
+      <workItem from="1712681496340" duration="4000" />
+      <workItem from="1712681888310" duration="5000" />
+      <workItem from="1712682031322" duration="3000" />
+      <workItem from="1712758135484" duration="11000" />
+      <workItem from="1712761376376" duration="2000" />
+      <workItem from="1712929984210" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit (Window and GamePanel)">
       <option name="closed" value="true" />
