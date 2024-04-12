@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="861725f8-a284-4552-a7bb-7d3aef2d9975" name="Changes" comment="New Sprites (Objects) added. SuperObject class added.">
-      <change afterPath="$PROJECT_DIR$/src/object/OBJ_Boot.java" afterDir="false" />
+    <list default="true" id="861725f8-a284-4552-a7bb-7d3aef2d9975" name="Changes" comment="BOOT.">
+      <change afterPath="$PROJECT_DIR$/res/sound/coin.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/fanfare.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/lozbackground.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/powerup.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sound/unlock.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Sound.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/AssetSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AssetSetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +64,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/sound" />
       <recent name="C:\Users\14692\IdeaProjects\GameProject\res\objects" />
       <recent name="C:\Users\14692\IdeaProjects\GameProject\res\tiles" />
       <recent name="C:\Users\14692\IdeaProjects\GameProject\res\maps" />
       <recent name="$PROJECT_DIR$/res/tiles" />
-      <recent name="C:\Users\14692\IdeaProjects\GameProject\res\player" />
     </key>
   </component>
   <component name="RunManager">
@@ -144,7 +149,8 @@
       <workItem from="1712682031322" duration="3000" />
       <workItem from="1712758135484" duration="11000" />
       <workItem from="1712761376376" duration="2000" />
-      <workItem from="1712929984210" duration="307000" />
+      <workItem from="1712929984210" duration="1037000" />
+      <workItem from="1712950398971" duration="3528000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit (Window and GamePanel)">
       <option name="closed" value="true" />
@@ -194,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712011706669</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="BOOT.">
+      <option name="closed" value="true" />
+      <created>1712930305146</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712930305146</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +233,7 @@
     <MESSAGE value="Collsion Detection Added (Invisible Rect Object at the (entity) worldX/Y. Uses X/Y + Speed checker method." />
     <MESSAGE value="Collsion Detection Added (Invisible Rect Object at the (entity) worldX/Y. Uses X/Y + Speed = tileX/Y checker method." />
     <MESSAGE value="New Sprites (Objects) added. SuperObject class added." />
-    <option name="LAST_COMMIT_MESSAGE" value="New Sprites (Objects) added. SuperObject class added." />
+    <MESSAGE value="BOOT." />
+    <option name="LAST_COMMIT_MESSAGE" value="BOOT." />
   </component>
 </project>

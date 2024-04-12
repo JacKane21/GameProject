@@ -119,18 +119,22 @@ public class Player extends Entity{
 
             switch (objectName) {
                 case "key":
+                    gp.playSE(1);
                     hasKey++;
                     gp.obj[i] = null;
                     break;
                 case "door":
                     if(hasKey > 0) {
+                        gp.playSE(3);
                         gp.obj[i] = null;
                         hasKey--;
                     }
                     break;
                 case "boot":
+                    gp.playSE(2);
                     gp.obj[i]= null;
-                    gp.player.speed = 5;
+                    gp.player.speed += 1;
+                    break;
             }
         }
     }
